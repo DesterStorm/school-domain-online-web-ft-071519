@@ -12,7 +12,8 @@ class School
   end
   
   def grade(lvl)
-    
+    roster.detect do 
+      
   end
 end
 
