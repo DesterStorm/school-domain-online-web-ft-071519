@@ -10,6 +10,8 @@ class School
     roster[grade] ||= []
     roster[grade] << student
   end
+  
+  def roster
 end
 
 school = School.name("Martinez Elementary")
