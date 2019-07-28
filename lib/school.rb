@@ -15,6 +15,7 @@ class School
     roster.detect do |a, b|
       if a == lvl 
         return b
+      end
   end
 end
 
