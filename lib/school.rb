@@ -13,7 +13,7 @@ class School
   
   def grade(lvl)
     roster.detect do 
-      
+      if x
   end
 end
 
