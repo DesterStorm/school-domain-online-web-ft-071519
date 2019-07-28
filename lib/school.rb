@@ -5,6 +5,8 @@ class School
     @name = name 
     @roster = {}
   end
+  
+  def add_student(name)
 end
 
 school = School.name("Martinez Elementary")
