@@ -12,8 +12,9 @@ class School
   end
   
   def grade(lvl)
-    roster.detect do 
-      if x
+    roster.detect do |a, b|
+      if a == lvl 
+        return b
   end
 end
 
