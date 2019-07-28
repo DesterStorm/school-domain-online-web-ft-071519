@@ -21,7 +21,8 @@ class School
   
   def sort
     school_hash = {}
-    
+    roster.each do |a, b|
+      
   end
 end
 
