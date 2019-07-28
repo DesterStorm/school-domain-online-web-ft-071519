@@ -28,5 +28,3 @@ class School
   end
 end
 
-school = School.name("Martinez Elementary")
-school.roster
