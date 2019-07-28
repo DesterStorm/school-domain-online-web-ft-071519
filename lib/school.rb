@@ -20,7 +20,8 @@ class School
   end
   
   def sort
-    school_hash 
+    school_hash = {}
+    
   end
 end
 
